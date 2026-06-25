@@ -30,5 +30,5 @@ building real projects from scratch while learning web dev and DSA in parallel.
 ![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva-s7&show_icons=true&theme=dark)
 
 ## 📫 Connect
-- LinkedIn: linkedin.com/in/selva-s270406
+- LinkedIn: https://www.linkedin.com/in/selva-s270406/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsAFVncBZSEO6dHxwuxsSCA%3D%3D
 - Email: selva.s2528@gmail.com
