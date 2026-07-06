@@ -17,6 +17,8 @@ building real projects from scratch while learning web dev and DSA in parallel.
 | [Titanic Flask API](https://github.com/Selva-s7/titanic-flask-api) | Survival prediction REST API | Scikit-learn, Flask, Joblib |
 | [Spam Classifier API](https://github.com/Selva-s7/spam-classifier-api) | Spam detection with Flask + Streamlit UI | TF-IDF, Logistic Regression, Flask, Streamlit |
 | [House Price Predictor](https://github.com/Selva-s7/house-price-predictor-api) | House price prediction with model comparison | XGBoost, Flask, Streamlit |
+| [Stock Dashboard](https://github.com/Selva-s7/stock-dashboard) | Live Indian stock analysis with moving averages and comparison | yfinance, Pandas, Matplotlib, Streamlit |
+| [GitHub User Finder](https://github.com/Selva-s7/github-user-finder) | Search GitHub profiles and repositories in real time | Vanilla JS, GitHub API, localStorage |
 
 ## 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
