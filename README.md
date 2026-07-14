@@ -36,7 +36,7 @@ building real projects from scratch while learning web dev and DSA in parallel.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva-s7&show_icons=true&theme=dark&cache_seconds=86400)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Selva-s7&show_icons=true&theme=dark)](https://github.com/Selva-s7)
 
 ## 📫 Connect
 - LinkedIn: [Selva S](https://www.linkedin.com/in/selva-s270406)
