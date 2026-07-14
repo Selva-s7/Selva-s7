@@ -20,6 +20,8 @@ building real projects from scratch while learning web dev and DSA in parallel.
 | [Stock Dashboard](https://github.com/Selva-s7/stock-dashboard) | Live Indian stock analysis with moving averages and comparison | yfinance, Pandas, Matplotlib, Streamlit |
 | [GitHub User Finder](https://github.com/Selva-s7/github-user-finder) | Search GitHub profiles and repositories in real time | Vanilla JS, GitHub API, localStorage |
 | [Cat vs Dog Identifier](https://github.com/Selva-s7/cat-vs-dog_identifiers) | Image classifier using CNN with transfer learning | PyTorch, CNN, torchvision |
+| [WeatherNow](https://github.com/Selva-s7/WeatherNow) | Real-time weather app with clean UI and city search | Vanilla JS, OpenWeatherMap API |
+| [Expense Tracker](https://github.com/Selva-s7/Expense-Tracker) | Expense tracker with categories and spending breakdown chart | Vanilla JS, Chart.js, localStorage |
 
 ## 🧠 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -34,7 +36,7 @@ building real projects from scratch while learning web dev and DSA in parallel.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ## 📈 GitHub Stats
-![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva-s7&show_icons=true&theme=dark)
+![Selva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Selva-s7&show_icons=true&theme=dark&cache_seconds=86400)
 
 ## 📫 Connect
 - LinkedIn: [Selva S](https://www.linkedin.com/in/selva-s270406)
